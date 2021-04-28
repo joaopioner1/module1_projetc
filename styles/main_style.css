@@ -1,0 +1,43 @@
+@charset "UTF 8";
+
+body {
+  background-color: #F2B749;
+}
+h1 {
+  background-color: #648C27;
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+
+p {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: justify;
+}
+
+a {
+  color: white;
+}
+
+hr {
+  border-color: #648C27;
+}
+
+h2 {
+  background-color: #F28C0F;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  text-align: justify;
+}
+
+h3 {
+  background-color: #648C27;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
