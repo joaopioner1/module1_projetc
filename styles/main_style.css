@@ -1,10 +1,10 @@
 @charset "UTF 8";
 
 body {
-  background-color: #F2B749;
+  background-color: #33B2B8;
 }
 h1 {
-  background-color: #648C27;
+  background-color: #EB7F32;
   color: white;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -27,7 +27,7 @@ hr {
 }
 
 h2 {
-  background-color: #F28C0F;
+  background-color: #E6CA48;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
