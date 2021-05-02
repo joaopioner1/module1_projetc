@@ -20,6 +20,8 @@ p {
 
 a {
   color: #F25757;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 hr {
@@ -41,10 +43,14 @@ h3 {
   text-align: justify;
 }
 
-
 IMG.displayed {
   display: block;
   margin-left: auto;
   margin-right: auto 
 }
 
+ol {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: #F25757;
+}
