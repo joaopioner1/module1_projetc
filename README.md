@@ -1,2 +1,2 @@
 # module1_projetc
-Welcome to the site: **Grandma receitas**!
+Welcome to the site **Grandma receitas**!
